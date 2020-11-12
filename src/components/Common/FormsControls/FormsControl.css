@@ -1,0 +1,22 @@
+.form__control :focus{
+    outline: none;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.form__control.error input, 
+.form__control.error textarea{
+    border: 2px solid red;
+    border-radius: 15px;
+    
+}
+.form__control span{
+    color:red;
+}
+.form__summary__error{
+    border: 1px red solid;
+    padding: 5px;
+    color:red;
+    width: 100px;
+    text-align: center;
+}

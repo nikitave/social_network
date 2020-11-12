@@ -1,0 +1,21 @@
+.dialogs{
+    display:grid;
+    grid-template-columns:2fr 10fr ;
+}
+
+.dialogs__dialogs{
+    margin: 10px;
+}
+
+
+.dialogs__messages{
+    margin: 10px;
+}
+
+.dialogs__button{
+    margin-top: 10px; ;
+}
+
+.dialogs__write{
+    margin-top: 10px;
+}

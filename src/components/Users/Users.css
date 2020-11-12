@@ -1,0 +1,7 @@
+.users__selected{
+    font-weight:bold;
+}
+
+.user__photo{
+    border-radius: 50%;
+}

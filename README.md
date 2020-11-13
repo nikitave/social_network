@@ -1,3 +1,9 @@
+1) You need to write `npm install`
+2) After you need to write `npm start`
+3) Then you need to register on the site https://social-network.samuraijs.com/
+4) And enjoy to site
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

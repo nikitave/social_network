@@ -5,6 +5,26 @@
     
   } 
 
-  .profileInfo__text{
+  .profileInfo{
     padding: 10px;
+    display: flex;
+  }
+  .profileInfo__left{
+    width: 50%;
+  }
+
+  .profileInfo__text__status{
+    font-size: 20px;
+  }
+  .profileInfo__text__name{
+    font-size: 30px;
+    margin-bottom: 50px;
+  }
+
+  .profile__info__img{
+    width:300px;
+    height:300px;
+  }
+  .contact{
+    margin-left:20px;
   }
